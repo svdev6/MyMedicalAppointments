@@ -1,7 +1,9 @@
+package ui;
+
 import java.util.Scanner;
 
 public class UIMenu {
-    static void showMenu() {
+    public static void showMenu() {
         System.out.println("Welcome to My Medical Appointments!");
         System.out.println("Selecciona una opción");
 
